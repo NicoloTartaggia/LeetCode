@@ -18,7 +18,7 @@ Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` othe
 
 **Constraints**: 
     
-* -231 <= x <= 231 - 1
+* `-231 <= x <= 231 - 1`
 
 **Follow up**: Could you solve it without converting the integer to a string?
 
